@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "32564bf975c639c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f3d50a0a027abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e209ff26b4afd83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mas Sabrang KC November 25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mas Sabrang KC November 25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5bab4456d69094d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1352ec12f5273510",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "dd395aa74ee86559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mas Sabrang KC Maret 26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mas Sabrang KC Maret 26"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b49809682e3e4edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e35752ee030e2de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e6d78c98585365",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11196b775a615536",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8af5e74836d4067",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62be89b355a806fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c7e0ea1ec285ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d138371728f11e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec43b4398537384f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "726bc8fd7987afc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae59785adf97a901",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f53ae50a452ac3db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1352ec12f5273510",
+  "lastOpenFiles": [
+    "Mas Sabrang KC November 25.md",
+    "Mas Sabrang KC Maret 26.md",
+    "Mas Sabrang KC Maret 26 Sesi Pertanyaan 2.md",
+    "Mas Sabrang KC Maret 26 Sesi Pertanyaan 1.md",
+    "Mas Sabrang KC Februari 26.md",
+    "Mas Sabrang KC Februari 26 Sesi Pertanyaan.md",
+    "Mas Sabrang KC April 26.md",
+    "rangkuman-mas-sabrang-kc-november-2025.md",
+    "Mas Sabrang KC Maret Sesi Pertanyaan 2.md",
+    "Kesetiaan utama adalah kepada bangsa.md",
+    "Mas Sabrang KC Februari.md",
+    "Mas Sabrang KC Februari Sesi Pertanyaan.md",
+    "Mas Sabrang KC Maret Sesi Pertanyaan 1.md",
+    "rangkuman-mas-sabrang-kc-februari-2026-sesi-pertanyaan.md",
+    "Mas Sabrang KC April.md",
+    "Mas Sabrang KC Maret.md",
+    "Mas Sabrang KC Februari Sesi Pertama.md.md",
+    "rangkuman-mas-sabrang-kc-februari-2026-sesi-pertama.md",
+    "Mas Sabrang KC Maret Sesi Pertama.md",
+    "Mas Sabrang KC April Sesi Pertama.md",
+    "rangkuman-mas-sabrang-kc-maret-2026-sesi-pertanyaan-2.md",
+    "rangkuman-mas-sabrang-kc-maret-2026-pertanyaan-1.md",
+    "free will.md",
+    "Mas Sabrang.md",
+    "Laku Batin.md",
+    "Kenduri Cinta.md",
+    "Mas Sabrang KC Maret Sesi Pertama.txt",
+    "Mas Sabrang KC Sesi Pertama.txt",
+    "New Text Document.txt"
+  ]
+}
