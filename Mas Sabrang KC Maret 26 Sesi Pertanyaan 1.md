@@ -4,15 +4,11 @@ aliases:
   - Kita Harus Bersiap Atas Apapun yang Akan Terjadi
   - Mas Sabrang KC Maret 2026 - Sesi Pertanyaan 1
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - maret-2026
   - survival
   - free-will
   - determinisme
   - makna
-  - spiritualitas
-  - refleksi
 type: youtube-note
 source: YouTube
 url: https://www.youtube.com/watch?v=JZbsi0Z-ieQ
@@ -175,8 +171,6 @@ Pada saat yang sama, ia menjelaskan bahwa takdir mungkin bekerja kuat pada level
 
 ## Tautan internal
 
-- [[Mas Sabrang]]
-- [[Kenduri Cinta]]
 - [[Survival]]
 - [[Free Will]]
 - [[Determinisme]]

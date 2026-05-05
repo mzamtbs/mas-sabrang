@@ -4,11 +4,8 @@ aliases:
   - Mas Sabrang - Lima Realitas
   - Kenduri Cinta - Ibnu Arabi
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - ibnu-arabi
   - filsafat
-  - spiritualitas
   - nasib
   - free-will
 type: youtube-note
@@ -16,7 +13,6 @@ source: YouTube
 link: https://www.youtube.com/watch?v=cFrmyIG9c38
 tanggal-maiyahan: 2026-04-10
 ---
-[[Mas Sabrang]]
 # Rangkuman
 
 Pembahasan ini berangkat dari pertanyaan tentang “aktivasi nasib”, lalu dijawab dengan gagasan bahwa nasib tidak cukup dipahami sebagai hasil akhir, melainkan sebagai produk dari mekanisme realitas yang bekerja terus-menerus pada setiap saat.

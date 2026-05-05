@@ -4,16 +4,11 @@ aliases:
   - Mengenali Batas dan Kapasitas Diri Sendiri
   - Mas Sabrang KC Maret 2026 - Sesi Pertanyaan 2
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - maret-2026
-  - sesi-pertanyaan
   - perang
   - informasi
   - ai
-  - spiritualitas
   - kebijakan
-  - refleksi
 type: youtube-note
 source: YouTube
 url: https://www.youtube.com/watch?v=8sdTcGpU7Sk
@@ -202,8 +197,6 @@ Pada saat yang sama, ia menunjukkan perlunya berpikir objektif terhadap kebijaka
 
 ## Tautan internal
 
-- [[Mas Sabrang]]
-- [[Kenduri Cinta]]
 - [[Perang]]
 - [[Moralitas]]
 - [[Artificial Intelligence]]

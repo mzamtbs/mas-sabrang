@@ -4,17 +4,13 @@ aliases:
   - Kesetiaan Kita Kepada Bangsa
   - Mas Sabrang KC Februari 2026 - Sesi Pertanyaan
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - februari-2026
-  - sesi-pertanyaan
   - metronom
   - survival
   - ai
   - pertahanan
   - gotong-royong
   - trust
-  - refleksi
 type: youtube-note
 source: YouTube
 url: https://www.youtube.com/watch?v=a2bNI5tpX6I
@@ -207,9 +203,6 @@ Di saat yang sama, ia mengajak jamaah Maiyah untuk tidak terjebak pada polarisas
 
 ## Tautan internal
 
-- [[Mas Sabrang]]
-- [[Kenduri Cinta]]
-- [[Maiyah]]
 - [[Metronom]]
 - [[Kesetiaan kepada Bangsa]]
 - [[Pertahanan Sosial]]

@@ -11,7 +11,10 @@ category: Education
 description: Panduan komprehensif penulisan Markdown khusus untuk fitur-fitur unik Obsidian.
 created: 2026-05-05
 ---
-
+# Latihan menulis di Obsidian
+- buka 2 tab note [[==Tutorial Penulisan Markdown Obsidian for beginners==|Tutorial Menulis]] :
+	1. tab ke1 click 3 titik kanan atas -> source mode = ==cara penulisan==
+	2. tab ke2 click 3 titik kanan atas -> reading view = ==tamplina note==
 # 🎓 Masterclass Markdown Obsidian: Dari Nol ke Expert
 
 Dokumen ini berisi semua fitur Markdown standar dan fitur khusus Obsidian yang harus kamu kuasai.

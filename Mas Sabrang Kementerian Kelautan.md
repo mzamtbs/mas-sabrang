@@ -4,7 +4,6 @@ aliases:
   - Catatan Integritas - Mas Sabrang
   - Budaya Integritas Anti Korupsi
 tags:
-  - mas-sabrang
   - integritas
   - anti-korupsi
   - budaya

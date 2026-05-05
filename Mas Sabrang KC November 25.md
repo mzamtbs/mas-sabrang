@@ -4,15 +4,11 @@ aliases:
   - Kesadaran adalah Jembatan Dunia Fisik dan Dunia Akal
   - Mas Sabrang KC November 2025
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - november-2025
   - kesadaran
   - akal
   - dunia-fisik
   - niat
-  - spiritualitas
-  - refleksi
 type: youtube-note
 source: YouTube
 url: https://www.youtube.com/watch?v=JN29Spn6rtA
@@ -133,8 +129,6 @@ Inti pembahasan Mas Sabrang adalah bahwa kesadaran tidak cukup dipahami sebagai 
 
 ## Tautan internal
 
-- [[Mas Sabrang]]
-- [[Kenduri Cinta]]
 - [[Kesadaran]]
 - [[Niat]]
 - [[Realization]]

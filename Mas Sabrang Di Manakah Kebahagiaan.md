@@ -4,12 +4,10 @@ aliases:
   - Di Manakah Kebahagiaan
   - Kebahagiaan
 tags:
-  - mas-sabrang
   - kebahagiaan
   - filsafat
   - psikologi
   - biologi
-  - spiritualitas
   - bedah-buku
   - fakhruddin-faiz
   - pak-faiz
@@ -33,7 +31,7 @@ Benang merahnya bukan mencari formula baku, tetapi belajar mengenali alat-alat h
 Belajar pemikiran tidak harus dimulai dari jalan yang paling panjang. 
 [[Buku bisa menjadi shortcut]] agar perjalanan intelektual yang seharusnya memakan waktu bertahun-tahun bisa dipadatkan menjadi pembuka yang lebih terjangkau. 
 
-Mas Sabrang menekankan [[pentingnya membaca secara luas lebih dulu]], sebelum tenggelam terlalu dalam pada satu tokoh atau satu aliran. 
+Mas Sabrang menekankan [[semi-generalis|pentingnya membaca secara luas lebih dulu]], sebelum tenggelam terlalu dalam pada satu tokoh atau satu aliran. 
 Kalau terlalu cepat mendalam di satu titik, ada risiko menutup diri pada perspektif lain dan kehilangan kesempatan belajar.
 
 Buku ini dihargai karena membuka banyak jalur pemikiran sekaligus: Barat, Arab, pengalaman diri, rasionalitas, sampai sisi mistik. 

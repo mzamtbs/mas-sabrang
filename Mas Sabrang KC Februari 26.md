@@ -4,15 +4,11 @@ aliases:
   - Maiyah Membangun Pertahanan Sosial dan Kultural
   - Mas Sabrang KC Februari 2026
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - februari-2026
-  - maiyah
   - pertahanan-sosial
   - pertahanan-kultural
   - kepercayaan
   - sistem
-  - refleksi
 type: youtube-note
 source: YouTube
 url: https://www.youtube.com/watch?v=IUDWFnDYrvY
@@ -173,9 +169,6 @@ Maiyah tetap ditempatkan sebagai fondasi jiwa dan persaudaraan, tetapi fondasi i
 
 ## Tautan internal
 
-- [[Mas Sabrang]]
-- [[Kenduri Cinta]]
-- [[Maiyah]]
 - [[Pertahanan Sosial]]
 - [[Pertahanan Kultural]]
 - [[Trust]]

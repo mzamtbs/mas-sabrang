@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "tanggal-seminar": "date",
-    "tanggal": "datetime"
+    "tanggal": "date"
   }
 }

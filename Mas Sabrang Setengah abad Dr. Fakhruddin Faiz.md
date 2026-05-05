@@ -4,7 +4,6 @@ aliases:
   - Mas Sabrang
   - Catatan Setengah Abad Dr Faiz
 tags:
-  - mas-sabrang
   - fakhruddin-faiz
   - refleksi-hidup
   - filsafat
@@ -13,7 +12,7 @@ url: https://www.youtube.com/watch?v=Xk9iil7pMXg&t=6601s
 tanggal: 2025-08-16T20:00:00
 ---
 
-# [[Mas Sabrang]] — Catatan 3 Sesi
+# Mas Sabrang — Catatan 3 Sesi
 
 ## Ringkasan Umum
 - Mas Sabrang membangun refleksi hidup lewat tiga lensa utama, yaitu hidup sebagai [[ujian]], [[permainan]], dan [[senda gurau]].

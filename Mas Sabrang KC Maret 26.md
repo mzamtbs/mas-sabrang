@@ -4,11 +4,7 @@ aliases:
   - Puasa adalah Menahan Diri Untuk Tidak Mengambil Hak Kita
   - KC Maret 2026 - Mas Sabrang
 tags:
-  - kenduri-cinta
-  - mas-sabrang
   - puasa
-  - spiritualitas
-  - refleksi
   - niat
   - penyerahan-diri
 type: youtube-note
@@ -157,5 +153,3 @@ Karena itu, puasa bukan hanya ritual fisik, tetapi cara untuk melihat hidup seca
 - [[Niat]]
 - [[Laku Batin]]
 - [[Penyerahan Diri]]
-- [[Mas Sabrang]]
-- [[Kenduri Cinta]]
