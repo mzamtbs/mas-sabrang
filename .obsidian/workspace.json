@@ -4,6 +4,40 @@
     "type": "split",
     "children": [
       {
+        "id": "8b72bf0c13c9d84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b01f2ec68cf1c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mas Sabrang Setengah abad Dr. Fakhruddin Faiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mas Sabrang Setengah abad Dr. Fakhruddin Faiz"
+            }
+          },
+          {
+            "id": "7449c6a306d08a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial Penulisan Markdown Obsidian for beginners.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial Penulisan Markdown Obsidian for beginners"
+            }
+          }
+        ]
+      },
+      {
         "id": "16b0bf406acf3e3e",
         "type": "tabs",
         "children": [
@@ -15,6 +49,20 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "a54dfd9bc90563b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mas Sabrang KC November 25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mas Sabrang KC November 25"
             }
           }
         ]
@@ -36,7 +84,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "- [",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,17 +226,22 @@
   },
   "active": "1352ec12f5273510",
   "lastOpenFiles": [
-    "Mas Sabrang Di Manakah Kebahagiaan.md",
-    "Nilai.md",
-    "Mas Sabrang Kementerian Kelautan.md",
-    "Integritas.md",
+    "Mas Sabrang Setengah abad Dr. Fakhruddin Faiz.md",
+    "Tutorial Penulisan Markdown Obsidian for beginners.md",
+    "Pelajaran Dasar Obsidian (markdown).md",
     "Mas Sabrang KC November 25.md",
+    "Mas Sabrang Di Manakah Kebahagiaan.md",
+    "Mas Sabrang Kementerian Kelautan.md",
     "Mas Sabrang KC Maret 26.md",
-    "Mas Sabrang KC Maret 26 Sesi Pertanyaan 2.md",
     "Mas Sabrang KC Maret 26 Sesi Pertanyaan 1.md",
+    "Mas Sabrang KC Maret 26 Sesi Pertanyaan 2.md",
+    "Mas Sabrang KC April 26.md",
     "Mas Sabrang KC Februari 26.md",
     "Mas Sabrang KC Februari 26 Sesi Pertanyaan.md",
-    "Mas Sabrang KC April 26.md",
+    "Mas Sabrang .md",
+    "catatan-mas-sabrang-obsidian.md",
+    "Nilai.md",
+    "Integritas.md",
     "rangkuman-mas-sabrang-kc-november-2025.md",
     "Mas Sabrang KC Maret Sesi Pertanyaan 2.md",
     "Kesetiaan utama adalah kepada bangsa.md",
@@ -199,11 +252,6 @@
     "Mas Sabrang KC April.md",
     "Mas Sabrang KC Maret.md",
     "Mas Sabrang KC Februari Sesi Pertama.md.md",
-    "rangkuman-mas-sabrang-kc-februari-2026-sesi-pertama.md",
-    "Mas Sabrang KC Maret Sesi Pertama.md",
-    "Mas Sabrang KC April Sesi Pertama.md",
-    "rangkuman-mas-sabrang-kc-maret-2026-sesi-pertanyaan-2.md",
-    "rangkuman-mas-sabrang-kc-maret-2026-pertanyaan-1.md",
     "Mas Sabrang KC Maret Sesi Pertama.txt",
     "Mas Sabrang KC Sesi Pertama.txt",
     "New Text Document.txt"

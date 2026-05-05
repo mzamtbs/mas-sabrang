@@ -15,6 +15,7 @@ tags:
   - pak-faiz
 type: note
 tanggal: 2024-02-06T20:00:00
+url: https://www.youtube.com/watch?v=bTHqEkcvvJs&t=8525s
 ---
 
 # Di Manakah Kebahagiaan

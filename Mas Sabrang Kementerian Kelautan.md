@@ -13,6 +13,7 @@ tags:
   - organisasi
 type: seminar-note
 tanggal-seminar: 2022-12-07
+url: https://www.youtube.com/watch?v=GpLAqu9zs6Q&t=6611s
 ---
 ## Ide utama
 
