@@ -6,41 +6,30 @@
       {
         "id": "58491e1c0b0ccb91",
         "type": "tabs",
-        "dimension": 23.985890652557316,
+        "dimension": 38.775510204081634,
         "children": [
           {
-            "id": "7449c6a306d08a53",
+            "id": "f9ff3b8b6aae1d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mas Sabrang Podcast Deddy Atheis.md",
+                "file": "Mas Sabrang Podcast Gita 2.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
-              "title": "Mas Sabrang Podcast Deddy Atheis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8b72bf0c13c9d84d",
-        "type": "tabs",
-        "dimension": 28.74779541446208,
-        "children": [
-          {
-            "id": "cf09677b934e726f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mas Sabrang Podcast Deddy Mysticism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mas Sabrang Podcast Deddy Mysticism"
+              "title": "Mas Sabrang Podcast Gita 2"
             }
           }
         ]
@@ -48,20 +37,16 @@
       {
         "id": "16b0bf406acf3e3e",
         "type": "tabs",
-        "dimension": 47.266313932980594,
+        "dimension": 61.224489795918366,
         "children": [
           {
             "id": "a54dfd9bc90563b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "==Tutorial Penulisan Markdown Obsidian for beginners==.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "==Tutorial Penulisan Markdown Obsidian for beginners=="
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -83,7 +68,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -143,7 +128,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -204,12 +189,22 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "bc445cdac1426840",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 501.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -225,32 +220,35 @@
   },
   "active": "a54dfd9bc90563b7",
   "lastOpenFiles": [
-    "Mas Sabrang Podcast Deddy Atheis.md",
+    "Mas Sabrang Podcast Gita 2.md",
     "Mas Sabrang Podcast Deddy Mysticism.md",
+    "Mas Sabrang KC November 25.md",
+    "Mas Sabrang KC November 25 Sesi Pertanyaan.md",
+    "Mas Sabrang Podcast Daniel.md",
+    "level psikologis.md",
+    "Mas Sabrang KC Februari 26 Sesi Pertanyaan.md",
+    "Mas Sabrang Setengah abad Dr. Fakhruddin Faiz.md",
+    "Mas Sabrang Di Manakah Kebahagiaan.md",
+    "Untitled.canvas",
+    "Contoh.md",
+    "Untitled 1.canvas",
+    "Untitled.base",
+    "2026-05-06.md",
+    "==Tutorial Penulisan Markdown Obsidian for beginners==.md",
+    "Mas Sabrang Podcast Deddy Atheis.md",
     "catatan-mas-sabrang-deddy-mysticism.md",
     "Mas Sabrang Podcast Deddy Atheis jelek.md",
     "catatan-mas-sabrang-deddy-corbuzier-atheisme-kutipan-asli.md",
-    "==Tutorial Penulisan Markdown Obsidian for beginners==.md",
-    "Mas Sabrang Di Manakah Kebahagiaan.md",
     "catatan-mas-sabrang-deddy-corbuzier-atheisme.md",
     "Mas Sabrang KC Maret 26.md",
     "Mas Sabrang KC Februari 26.md",
-    "Mas Sabrang Podcast Daniel.md",
-    "Mas Sabrang KC November 25.md",
-    "Mas Sabrang KC Februari 26 Sesi Pertanyaan.md",
     "Mas Sabrang KC Maret 26 Sesi Pertanyaan 2.md",
     "Mas Sabrang KC Maret 26 Sesi Pertanyaan 1.md",
     "Mas Sabrang KC April 26.md",
     "Mas Sabrang Kementerian Kelautan.md",
-    "Mas Sabrang Setengah abad Dr. Fakhruddin Faiz.md",
     "catatan-mas-sabrang-podcast-daniel-mananta.md",
     "semi-generalis.md",
     "pentingnya membaca secara luas lebih dulu.md",
-    "Pelajaran Dasar Obsidian (markdown).md",
-    "Mas Sabrang .md",
-    "catatan-mas-sabrang-obsidian.md",
-    "Nilai.md",
-    "Integritas.md",
     "Mas Sabrang KC Maret Sesi Pertama.txt",
     "Mas Sabrang KC Sesi Pertama.txt",
     "New Text Document.txt"
