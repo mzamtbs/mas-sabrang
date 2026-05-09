@@ -1,0 +1,1 @@
+[[media sosial mendorong manusia membentuk model dunia bukan dari pengalaman nyata, tetapi dari proyeksi, algoritma, filter, dan ilusi]]

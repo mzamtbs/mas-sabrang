@@ -1,0 +1,1 @@
+[[kesadaran adalah inti kemanusiaan]]

@@ -1,0 +1,1 @@
+[[✅partner diskusi]], [[❌ pengganti total kemampuan manusia]]. Manusia tetap harus ikut di ide, arah, keputusan, dan penilaian akhir.

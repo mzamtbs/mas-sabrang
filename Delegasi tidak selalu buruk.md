@@ -1,0 +1,1 @@
+[[delegasikan kepada dokter]]
