@@ -160,14 +160,3 @@ Dengan kata lain, kesadaran adalah inti kemanusiaan. Tanpa itu, manusia mudah hi
 Bila diringkas dalam satu kalimat, inti podcast ini adalah: manusia tidak kehilangan diri karena teknologi semata, tetapi karena ia tidak sadar pada apa yang sedang ia serahkan kepada teknologi, kepada sistem, dan kepada orang lain.
 
 
-- kalau kita punya world model di kepala kita yg cukup akurat -> ==kita tidak akan mudah kaget==.
-
-- bahaya sosmed adalah konten sosmed menjadi world model, padahal itu bukan kenyataan.
-
-- saya secara sadar mendelegasikan aspek2 dalam diri saya ke orang lain:
-
-	1. kemampuan meracik makanan untuk dikonsumsi
-	2. kemampuan memproduksi pangan ke petani melalui fungsi pasar
-	3. kemampuan berprikir yang saya sendiri tidak ada bahannya ke Mas Sabrang , AI atau ke Youtube tutorial.
-	4. kemampuan mengatur struktur gigi ke dokter Ortho
-	5. kemampuan mengolah rasa ke para pemusik dan penyair
